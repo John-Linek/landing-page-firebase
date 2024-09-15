@@ -1,4 +1,4 @@
-# LADING PAGE
+# LANDING PAGE
 
 # Praticando a matipulação de dados no firebase.
 
